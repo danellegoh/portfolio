@@ -34,7 +34,7 @@
     }
 
     nav {
-        margin-bottom: 20px;
+        margin-bottom: 100px;
         font-weight: 600;
     }
 
