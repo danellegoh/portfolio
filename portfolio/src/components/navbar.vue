@@ -8,13 +8,7 @@
                             <RouterLink to="/" class="nav-link">Home</RouterLink>
                         </li>
                         <li class="nav-item">
-                            <RouterLink to="/about" class="nav-link">About</RouterLink>
-                        </li>
-                        <li class="nav-item">
                             <RouterLink to="/projects" class="nav-link">Projects</RouterLink>
-                        </li>
-                        <li class="nav-item">
-                            <RouterLink to="/contact" class="nav-link">Contact Me</RouterLink>
                         </li>
                     </ul>
                 </div>
@@ -34,7 +28,6 @@
     }
 
     nav {
-        margin-bottom: 100px;
         font-weight: 600;
     }
 

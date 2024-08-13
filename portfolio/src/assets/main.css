@@ -1,3 +1,32 @@
 div {
   font-family: 'Poppins', sans-serif;
 }
+
+.content1 {
+  color: rgb(93, 135, 188);
+}
+
+.content2 {
+  color: rgb(70, 80, 90);
+}
+
+.content3 {
+  color: rgb(177, 192, 210);
+}
+
+.button {
+  background-color: rgb(165, 189, 213);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 12px;
+  width: 40%;
+  transition-duration: 0.2s;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+
+.button:hover {
+  background-color: rgb(93, 135, 188);
+  color: white;
+}
