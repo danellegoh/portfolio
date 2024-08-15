@@ -1,8 +1,8 @@
 <template>
     <div>
-        <nav class="navbar navbar-expand-lg bg-body-secondary">
+        <nav class="navbar navbar-expand-lg bg-body-secondary fixed-top">
             <div class="container-fluid">
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
                             <RouterLink to="/" class="nav-link">Home</RouterLink>
@@ -32,7 +32,6 @@
     }
 
     .nav-link {
-        position: relative;
         color: rgb(70, 80, 90);
     }
 

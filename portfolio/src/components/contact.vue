@@ -6,13 +6,13 @@
             </div>
             <div class="row">
                 <div class="col-6">
-                    <a class="contactinfo content2" href="https://www.linkedin.com/in/danelle-goh/">
+                    <a class="contactinfo content2" target="_blank" href="https://www.linkedin.com/in/danelle-goh/">
                         <img class="icons" src="../assets/mdi--linkedin.png">
                         LinkedIn
                     </a>
                 </div>
                 <div class="col-6">
-                    <a class="contactinfo content2" href="https://github.com/danellegoh">
+                    <a class="contactinfo content2" target="_blank" href="https://github.com/danellegoh">
                         <img class="icons" src="../assets/mdi--github.png">
                         GitHub
                     </a>
@@ -27,7 +27,7 @@
                     </a>
                 </div>
                 <div class="col-6">
-                    <a class="contactinfo content2" href="https://drive.google.com/file/d/1-tr-lQ48B0VM5JsSXfP91G8m6khrVoYp/view?usp=sharing">
+                    <a class="contactinfo content2" target="_blank" href="https://drive.google.com/file/d/1-tr-lQ48B0VM5JsSXfP91G8m6khrVoYp/view?usp=sharing">
                         <img class="icons" src="../assets/system-uicons--document.png">
                         Resume
                     </a>
