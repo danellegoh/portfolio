@@ -5,6 +5,7 @@
             <p class="content2">
                 I am an undergraduate at Singapore Management University, pursuing a Bachelor's Degree in Information Systems. I am taking a dual track in Digitalisation & Cloud Solutions, and Smart-City Management & Technology.
             </p>
+            <br>
             <p class="content2">
                 I enjoy meeting new people and hearing their stories, as I believe everyone holds a unique perspective. Working together in a team allows us to approach the same problem from multiple angles. 
             </p>
@@ -20,7 +21,7 @@
         padding: 10px;
         border-radius: 12px;
         margin-left: auto;
-        margin-top: 150px;
+        margin-top: 200px;
         margin-bottom: 50px;
         width: 60%;
     }

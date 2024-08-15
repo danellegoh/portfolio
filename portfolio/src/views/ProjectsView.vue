@@ -9,17 +9,17 @@
 
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/keppel.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <a class="content1 link" target="_blank" href="https://www.keppel.com/en/">Keppel Limited</a>
             <p class="content2">Enterprise Application Intern</p>
             <p class="content2">Jan 2024 - Aug 2024</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/mssql.png">
               <img class="skillLogo" src="../assets/html.png">
@@ -27,8 +27,8 @@
             </div>
           </div>
         </div>
-
       </div>
+      
     </div>
 
     <!-- Technical Projects Section -->
@@ -41,17 +41,17 @@
       <!-- Portfolio -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/laptop.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <p class="content1">Portfolio</p>
             <p class="content2">Personal Project</p>
             <p class="content2">Jan 2024 - Present</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/html.png">
               <img class="skillLogo" src="../assets/javascript.png">
@@ -66,17 +66,17 @@
       <!-- IS216 Life Below Water -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/lifebelowwater.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <p class="content1">Life Below Water</p>
             <p class="content2">Web Application Development | School Project</p>
             <p class="content2">Aug 2023 - Nov 2023</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/html.png">
               <img class="skillLogo" src="../assets/javascript.png">
@@ -91,17 +91,17 @@
       <!-- IS212 All in One -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/allinone.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <p class="content1">All in One - Skill-Based Portal</p>
             <p class="content2">Software Project Management | School Project</p>
             <p class="content2">Aug 2023 - Nov 2023</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/javascript.png">
               <img class="skillLogo" src="../assets/python.png">
@@ -116,17 +116,17 @@
       <!-- IS213 EcoPal -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/ecopal.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <p class="content1">EcoPal</p>
             <p class="content2">Enterprise Solution Development | School Project</p>
             <p class="content2">Jan 2023 - Apr 2023</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/javascript.png">
               <img class="skillLogo" src="../assets/python.png">
@@ -151,17 +151,17 @@
       <!-- IS446 Timperio -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/timperio.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <a class="content1 link" target="_blank" href="https://timperio.co/">Timperio Case Study</a>
             <p class="content2">Managing Customer Relations with Analytics | School Project</p>
             <p class="content2">Oct 2023 - Nov 2023</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/tableau.png">
             </div>
@@ -172,17 +172,17 @@
       <!-- IS211 SMUG -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/smug.png">
           </div>
 
-          <div class="col-8">
-            <p class="content1">SMUG - Mobile eLearn Companion</p>
+          <div class="col-lg-7 col-md-6 col-sm-9">
+            <p class="content1">SMUG - eLearn Mobile Companion</p>
             <p class="content2">Interaction Design & Prototyping | School Project</p>
             <p class="content2">Aug 2022 - Nov 2022</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/figma.png">
             </div>
@@ -193,17 +193,17 @@
       <!-- SMT203 Marijuana -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/sentimentanalysis.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <p class="content1">Sentiment Analysis of Legalising Recreational Marijuana in America</p>
             <p class="content2">Computational Social Science | School Project</p>
             <p class="content2">Aug 2022 - Nov 2022</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/python.png">
               <img class="skillLogo" src="../assets/twitter.png">
@@ -216,17 +216,17 @@
       <!-- COR1305 PV -->
       <div class="container box">
         <div class="row align-items-center justify-content-center">
-          <div class="col-1">
+          <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/plainvanilla.png">
           </div>
 
-          <div class="col-8">
+          <div class="col-lg-7 col-md-6 col-sm-9">
             <a class="content1 link" target="_blank" href="https://plainvanilla.com.sg/">Plain Vanilla Product & Sales Analysis</a>
             <p class="content2">Spreadsheet Modeling & Analytics | School Project</p>
             <p class="content2">Jan 2022 - Apr 2022</p>
           </div>
 
-          <div class="col-3">
+          <div class="col-md-4">
             <div class="logoContainer">
               <img class="skillLogo" src="../assets/excel.png">
             </div>
@@ -239,7 +239,19 @@
   </main>
     
 </template>
-  
+
+<script>
+
+// import project from '../components/project.vue';
+
+// export default {
+//   components: {
+//     project,
+//   }
+// }
+
+</script>
+
 <style>
   .mainbox {
     border: 1px solid rgb(93, 135, 188);

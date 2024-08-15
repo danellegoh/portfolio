@@ -1,10 +1,10 @@
 <template>
     <div id="home" class="app">
         <div class="container">
-            <div class="row">
-                <div class="col-2"></div>
+            <div class="row gy-sm-4">
+                <div class="col-lg-2"></div>
 
-                <div class="col-5">
+                <div class="col-lg-5 col-md-6">
                     <div class="row title">
                         <h1 class="content1">Hey, I'm Danelle Goh!</h1>
                     </div>
@@ -17,11 +17,11 @@
                     </div>
                 </div>
 
-                <div class="col-3 d-flex justify-content-center">
+                <div class="col-lg-3 col-md-6 d-flex justify-content-center">
                     <img src="../assets/profile.jpg" class="img-fluid rounded">
                 </div>
 
-                <div class="col-2"></div>
+                <div class="col-lg-2"></div>
             </div>
             
         </div>
