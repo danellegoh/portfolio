@@ -1,7 +1,7 @@
 <template>
     <div id="home" class="app">
         <div class="container">
-            <div class="row gy-sm-4">
+            <div class="row gy-4">
                 <div class="col-lg-2"></div>
 
                 <div class="col-lg-5 col-md-6">

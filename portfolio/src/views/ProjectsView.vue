@@ -299,6 +299,7 @@
 
   .projLogo {
     width: 100%;
+    max-width: 80px;
     display: block;
   }
 
