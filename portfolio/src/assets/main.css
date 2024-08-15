@@ -14,6 +14,11 @@ div {
   color: rgb(177, 192, 210);
 }
 
+.content4 {
+  color: rgb(109, 125, 140);
+  font-size: 12px;
+}
+
 .button {
   background-color: rgb(165, 189, 213);
   color: white;
