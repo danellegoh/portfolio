@@ -56,10 +56,6 @@
             width: 60%; 
             height: 60%;
         }
-
-        .container {
-            margin-top: 50px;
-        }
     }
 
 </style>
