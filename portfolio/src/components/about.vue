@@ -25,4 +25,11 @@
         margin-bottom: 50px;
         width: 60%;
     }
+
+    @media (max-width: 767px) {
+        .box {
+            margin-top: 50px;
+        }
+    }
+
 </style>
