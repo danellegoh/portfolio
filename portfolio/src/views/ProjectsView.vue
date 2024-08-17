@@ -7,7 +7,8 @@
         <a class="content2 link" target="_blank" href="https://www.linkedin.com/in/danelle-goh/">View my LinkedIn profile for more details</a>
       </div>
 
-      <div class="container box">
+      <!-- Keppel Internship -->
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/keppel.png">
@@ -28,7 +29,17 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="keppelLogo"
+        companyLink="https://www.keppel.com/en/"
+        projectName="Keppel Limited"
+        title="Enterprise Application Intern"
+        startDate="Jan 2024"
+        endDate="Aug 2024"
+        description="Coordinated annual User Access Review and supported daily operations for multiple applications, including SAP, Electronic Invoicing System, Service Request Tool and Treasury Management System. Management of tickets was done on ServiceNow and SharePoint."
+        :skillLogos="[mssqlLogo, htmlLogo, javascriptLogo]" />
       
     </div>
 
@@ -40,7 +51,7 @@
       </div>
 
       <!-- Portfolio -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/laptop.png">
@@ -63,10 +74,20 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="laptopLogo"
+        companyLink="https://danellegoh.netlify.app/"
+        projectName="Portfolio"
+        title="Personal Project"
+        startDate="Jan 2024"
+        endDate="Present"
+        description="Ongoing personal project to showcase what I have worked on previously."
+        :skillLogos="[htmlLogo, javascriptLogo, cssLogo, bootstrapLogo, vueLogo]" />
 
       <!-- IS216 Life Below Water -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/lifebelowwater.png">
@@ -89,10 +110,19 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="lifeBelowWaterLogo"
+        projectName="Life Below Water"
+        title="Web Application Development | School Project"
+        startDate="Aug 2023"
+        endDate="Nov 2023"
+        description="A web application aimed at increasing awareness and promoting action for marine conservation. It includes an interactive map, latest news, donation and volunteer pages, as well as a fun personality quiz."
+        :skillLogos="[htmlLogo, javascriptLogo, cssLogo, bootstrapLogo, vueLogo]" />
 
       <!-- IS212 All in One -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/allinone.png">
@@ -115,10 +145,19 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="allInOneLogo"
+        projectName="All in One - Skill-Based Portal"
+        title="Software Project Management | School Project"
+        startDate="Aug 2023"
+        endDate="Nov 2023"
+        description="Agile-managed project using scrum methodology. The application improves job application process within the organisation – for applicants, managers and HR."
+        :skillLogos="[pythonLogo, flaskLogo, mysqlLogo, javascriptLogo, vueLogo]" />
 
       <!-- IS213 EcoPal -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/ecopal.png">
@@ -142,7 +181,16 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="ecopalLogo"
+        projectName="EcoPal"
+        title="Enterprise Solution Development | School Project"
+        startDate="Jan 2023"
+        endDate="Apr 2023"
+        description="A web application to promote environmental sustainability, by reducing the use of single-use plastic bags through incentivisation and community-building."
+        :skillLogos="[pythonLogo, flaskLogo, mysqlLogo, rabbitmqLogo, dockerLogo, javascriptLogo]" />
 
     </div>
 
@@ -154,7 +202,7 @@
       </div>
 
       <!-- IS446 Timperio -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/timperio.png">
@@ -173,10 +221,20 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="timperioLogo"
+        companyLink="https://drive.google.com/file/d/1NBBqMygcb-pjqLFG1ZKe4ESlPmYYXJ2R/view?usp=sharing"
+        projectName="Timperio Case Study"
+        title="Managing Customer Relations with Analytics | School Project"
+        startDate="Oct 2023"
+        endDate="Nov 2023"
+        description="Provided an executive recommendation to improve Timperio's customer success strategy for the digital-online shopper, including creation of Tableau dashboard and mapping of customer journey."
+        :skillLogos="[tableauLogo]" />
 
       <!-- IS211 SMUG -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/smug.png">
@@ -195,10 +253,19 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="smugLogo"
+        projectName="SMUG - eLearn Mobile Companion"
+        title="Interaction Design & Prototyping | School Project"
+        startDate="Aug 2022"
+        endDate="Nov 2022"
+        description="Prototype of a mobile application to notify users of upcoming academic deadlines and keep track of relevant course materials. Includes gamification aimed at improving effectiveness of study sessions."
+        :skillLogos="[figmaLogo]" />
 
       <!-- SMT203 Marijuana -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/sentimentanalysis.png">
@@ -219,10 +286,19 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="sentimentAnalysisLogo"
+        projectName="Sentiment Analysis of Legalising Recreational Marijuana in America"
+        title="Computational Social Science | School Project"
+        startDate="Aug 2022"
+        endDate="Nov 2022"
+        description="Analysed online sentiments from Twitter and Reddit using relevant APIs, breaking down into general and state-specific analysis. Conducted VADER, text, log-odds, and empath analysis."
+        :skillLogos="[pythonLogo, twitterLogo, redditLogo]" />
 
       <!-- COR1305 PV -->
-      <div class="container box">
+      <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
           <div class="col-lg-1 col-md-2 col-sm-3">
             <img class="projLogo" src="../assets/plainvanilla.png">
@@ -241,7 +317,17 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
+
+      <project
+        :projectLogo="plainVanillaLogo"
+        companyLink="https://plainvanilla.com.sg/"
+        projectName="Plain Vanilla Product & Sales Analysis"
+        title="Spreadsheet Modeling & Analytics | School Project"
+        startDate="Jan 2022"
+        endDate="Apr 2022"
+        description="Performance dashboard to analyse online sales data, forecasting of sales to optimise labour allocation, forecasting profit based on marketing strategies."
+        :skillLogos="[excelLogo]" />
 
 
     </div>
@@ -250,14 +336,70 @@
 </template>
 
 <script>
+// import necessary logos
+import keppelLogo from '../assets/keppel.png';
+import laptopLogo from '../assets/laptop.png';
+import lifeBelowWaterLogo from '../assets/lifebelowwater.png';
+import allInOneLogo from '../assets/allinone.png';
+import ecopalLogo from '../assets/ecopal.png';
+import timperioLogo from '../assets/timperio.png';
+import smugLogo from '../assets/smug.png';
+import sentimentAnalysisLogo from '../assets/sentimentanalysis.png';
+import plainVanillaLogo from '../assets/plainvanilla.png';
+import mssqlLogo from '../assets/mssql.png';
+import htmlLogo from '../assets/html.png';
+import javascriptLogo from '../assets/javascript.png';
+import cssLogo from '../assets/css.png';
+import bootstrapLogo from '../assets/bootstrap.png';
+import vueLogo from '../assets/vue.png';
+import pythonLogo from '../assets/python.png';
+import flaskLogo from '../assets/flask.png';
+import mysqlLogo from '../assets/mysql.png';
+import rabbitmqLogo from '../assets/rabbitmq.png';
+import dockerLogo from '../assets/docker.png';
+import tableauLogo from '../assets/tableau.png';
+import figmaLogo from '../assets/figma.png';
+import twitterLogo from '../assets/twitter.png';
+import redditLogo from '../assets/reddit.png';
+import excelLogo from '../assets/excel.png';
 
-// import project from '../components/project.vue';
+import project from '../components/project.vue';
 
-// export default {
-//   components: {
-//     project,
-//   }
-// }
+export default {
+  components: {
+    project,
+  },
+  data() {
+    // return the imported logos
+    return {
+      keppelLogo,
+      laptopLogo,
+      lifeBelowWaterLogo,
+      allInOneLogo,
+      ecopalLogo,
+      timperioLogo,
+      smugLogo,
+      sentimentAnalysisLogo,
+      plainVanillaLogo,
+      mssqlLogo,
+      htmlLogo,
+      javascriptLogo,
+      cssLogo,
+      bootstrapLogo,
+      vueLogo,
+      pythonLogo,
+      flaskLogo,
+      mysqlLogo,
+      rabbitmqLogo,
+      dockerLogo,
+      tableauLogo,
+      figmaLogo,
+      twitterLogo,
+      redditLogo,
+      excelLogo
+    }
+  }
+}
 
 </script>
 

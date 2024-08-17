@@ -9,6 +9,7 @@
                 <a class="content1 link" target="_blank" :href="companyLink">{{ projectName }}</a>
                 <p class="content2">{{ title }}</p>
                 <p class="content2">{{ startDate }} - {{ endDate }}</p>
+                <p class="content4">{{ description }}</p>
             </div>
 
             <div class="col-md-3">
@@ -29,7 +30,6 @@
             },
             companyLink: {
                 type: String,
-                required: true,
             },
             projectName: {
                 type: String,
@@ -44,6 +44,10 @@
                 required: true,
             },
             endDate: {
+                type: String,
+                required: true,
+            },
+            description: {
                 type: String,
                 required: true,
             },
