@@ -27,7 +27,7 @@
                     </a>
                 </div>
                 <div class="col-sm-6">
-                    <a class="contactinfo content2" target="_blank" href="https://drive.google.com/file/d/1-tr-lQ48B0VM5JsSXfP91G8m6khrVoYp/view?usp=sharing">
+                    <a class="contactinfo content2" target="_blank" href="https://drive.google.com/file/d/16A7MZytt0VAymim7C_AMeLIZVPtHiXZL/view?usp=sharing">
                         <img class="icons" src="../assets/system-uicons--document.png">
                         Resume
                     </a>

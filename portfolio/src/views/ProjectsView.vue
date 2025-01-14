@@ -86,6 +86,27 @@
         description="Ongoing personal project to showcase what I have worked on previously."
         :skillLogos="[htmlLogo, javascriptLogo, cssLogo, bootstrapLogo, vueLogo]" />
 
+      <!-- FYP Healthier Gen Z -->
+      <project
+        :projectLogo="h365Logo"
+        companyLink="https://h365.vercel.app/"
+        projectName="Healthy 365 Prototype for Youth"
+        title="Final Year Project"
+        startDate="Aug 2024"
+        endDate="Nov 2024"
+        description="Capstone project in collaboration with the Health Promotion Board (HPB), to create an improved version of H365 targeted at youth aged 13 to 17 years old, offering a gamified experience with non-monetary rewards."
+        :skillLogos="[pythonLogo, flaskLogo, postgresqlLogo, javascriptLogo, vueLogo]" />
+
+      <!-- IS442 Timperio CRM -->
+      <project
+        :projectLogo="timperioLogo"
+        projectName="Customer Relationship Management (CRM) System"
+        title="Object Oriented Programming | School Project"
+        startDate="Aug 2024"
+        endDate="Nov 2024"
+        description="The web application enables efficient visualisation of customer purchase histories and personalised marketing efforts. It also aims to enhance customer engagement, improve sales performance, and streamline the management of customer data."
+        :skillLogos="[javaLogo, springbootLogo, postgresqlLogo, typescriptLogo, reactLogo]" /> 
+      
       <!-- IS216 Life Below Water -->
       <!-- <div class="container box">
         <div class="row align-items-center justify-content-center">
@@ -339,6 +360,7 @@
 // import necessary logos
 import keppelLogo from '../assets/keppel.png';
 import laptopLogo from '../assets/laptop.png';
+import h365Logo from '../assets/h365.png';
 import lifeBelowWaterLogo from '../assets/lifebelowwater.png';
 import allInOneLogo from '../assets/allinone.png';
 import ecopalLogo from '../assets/ecopal.png';
@@ -355,6 +377,7 @@ import vueLogo from '../assets/vue.png';
 import pythonLogo from '../assets/python.png';
 import flaskLogo from '../assets/flask.png';
 import mysqlLogo from '../assets/mysql.png';
+import postgresqlLogo from '../assets/postgresql.png';
 import rabbitmqLogo from '../assets/rabbitmq.png';
 import dockerLogo from '../assets/docker.png';
 import tableauLogo from '../assets/tableau.png';
@@ -362,6 +385,10 @@ import figmaLogo from '../assets/figma.png';
 import twitterLogo from '../assets/twitter.png';
 import redditLogo from '../assets/reddit.png';
 import excelLogo from '../assets/excel.png';
+import typescriptLogo from '../assets/typescript.png';
+import reactLogo from '../assets/react.png';
+import javaLogo from '../assets/java.png';
+import springbootLogo from '../assets/springboot.png';
 
 import project from '../components/project.vue';
 
@@ -374,6 +401,7 @@ export default {
     return {
       keppelLogo,
       laptopLogo,
+      h365Logo,
       lifeBelowWaterLogo,
       allInOneLogo,
       ecopalLogo,
@@ -390,13 +418,18 @@ export default {
       pythonLogo,
       flaskLogo,
       mysqlLogo,
+      postgresqlLogo,
       rabbitmqLogo,
       dockerLogo,
       tableauLogo,
       figmaLogo,
       twitterLogo,
       redditLogo,
-      excelLogo
+      excelLogo,
+      typescriptLogo,
+      reactLogo,
+      javaLogo,
+      springbootLogo
     }
   }
 }
