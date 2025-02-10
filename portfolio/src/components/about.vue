@@ -8,6 +8,7 @@
             <br>
             <p class="content2">
                 I enjoy meeting new people and hearing their stories, as I believe everyone holds a unique perspective. Working together in a team allows us to approach the same problem from multiple angles. 
+                Currently seeking internship opportunities in Software Engineering, Project Management or Product Management – I'm excited to leverage technology to drive meaningful change. Feel free to reach out! 
             </p>
         </div>
     </div>

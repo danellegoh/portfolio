@@ -46,7 +46,7 @@
         title="Capstone Project"
         startDate="Aug 2024"
         endDate="Nov 2024"
-        description="Collaborated with the Health Promotion Board (HPB), to create an improved version of H365 targeted at youth aged 13 to 17 years old, offering a gamified experience with non-monetary rewards."
+        description="Collaborated with the Health Promotion Board (HPB), to create an improved version of H365 targeted at youth aged 13 to 17 years old, offering a gamified experience with non-monetary rewards. Taking on the role as Scrum Master, I led my team in sprints, monitoring our progress and ensuring project completion."
         :skillLogos="[pythonLogo, flaskLogo, postgresqlLogo, javascriptLogo, vueLogo]" />
 
       <!-- IS442 Timperio CRM -->

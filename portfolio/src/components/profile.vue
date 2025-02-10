@@ -9,7 +9,7 @@
                         <h1 class="content1">Hey, I'm Danelle Goh!</h1>
                     </div>
                     <div class="row">
-                        <h3 class="content2">An aspiring Software Engineer</h3>
+                        <h3 class="content2">Problem solver with a passion for driving meaningful solutions</h3>
                     </div>
                     <div class="row">
                         <!-- <router-link to="/about" class="btn button">About Me</router-link> -->
