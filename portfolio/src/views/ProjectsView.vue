@@ -3,9 +3,20 @@
     <!-- Experience Section -->
     <div>
       <div class="container mainbox">
-        <h2 class="content1">Experiences</h2>
+        <h2 class="content1">Work Experience</h2>
         <a class="content2 link" target="_blank" href="https://www.linkedin.com/in/danelle-goh/">View my LinkedIn profile for more details</a>
       </div>
+
+      <!-- Shopee Internship -->
+      <project
+        :projectLogo="shopeeLogo"
+        companyLink="https://careers.shopee.sg/"
+        projectName="Shopee (Regional SPX)"
+        title="Product Management Intern"
+        startDate="May 2025"
+        endDate="Current"
+        description="Oversaw the product lifecycle for features related to driver governance, service points, notifications, finance and asset management. Delivered clear and comprehensive Business Requirement Documents (BRDs) and coordinated User Acceptance Testing (UAT)."
+        :skillLogos="[figmaLogo, prestoLogo, atlassianLogo]" />
 
       <!-- Keppel Internship -->
       <project
@@ -163,6 +174,7 @@
 
 <script>
 // import necessary logos
+import shopeeLogo from '../assets/shopee.png';
 import keppelLogo from '../assets/keppel.png';
 import laptopLogo from '../assets/laptop.png';
 import h365Logo from '../assets/h365.png';
@@ -196,6 +208,8 @@ import javaLogo from '../assets/java.png';
 import springbootLogo from '../assets/springboot.png';
 import laravelLogo from '../assets/laravel.png';
 import phpLogo from '../assets/php.png';
+import prestoLogo from '../assets/presto.png';
+import atlassianLogo from '../assets/atlassian.png';
 
 import project from '../components/project.vue';
 
@@ -206,6 +220,7 @@ export default {
   data() {
     // return the imported logos
     return {
+      shopeeLogo,
       keppelLogo,
       laptopLogo,
       h365Logo,
@@ -238,7 +253,9 @@ export default {
       javaLogo,
       springbootLogo,
       laravelLogo,
-      phpLogo
+      phpLogo,
+      prestoLogo,
+      atlassianLogo
     }
   }
 }
